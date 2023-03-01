@@ -20,15 +20,15 @@
             </div>
             <h2 class="content__title">Все пиццы</h2>
             <div class="content__items">
-              <PizzaBlock/>
-              <PizzaBlock/>
-              <PizzaBlock/>
-              <PizzaBlock/>
-              <PizzaBlock/>
-              <PizzaBlock/>
-              <PizzaBlock/>
-              <PizzaBlock/>
-              <PizzaBlock/>
+              <PizzaBlock title="Мексиканська" price={500}/>
+              <PizzaBlock title="Гавайська" price="350"/>
+              <PizzaBlock title="Маргарита" price="500"/>
+              <PizzaBlock title="Чотири сири" price="240"/>
+              <PizzaBlock title="Чотири сири" price="240"/>
+              <PizzaBlock title="Маргарита" price="500"/>
+              <PizzaBlock title="Гавайська" price="350"/>
+              <PizzaBlock title="Чотири сири" price="240"/>
+              <PizzaBlock title="Гавайська" price="350"/>
             </div>
           </div>
         </div>
